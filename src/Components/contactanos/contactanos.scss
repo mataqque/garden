@@ -1,0 +1,31 @@
+.contactanos{
+    height: 100vh;
+    width: 100%;
+    background: black;
+    .formulario{
+        flex-basis: 60%;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .content-img{
+        flex-basis: 40%;
+    }
+    .btn{
+        color: white;
+        border: 2px solid white;
+        margin: 0px 6px;
+        border-radius: 100px 100px;
+    }
+    .family{
+        width: 70%;
+    }
+    .btn-submit{
+        padding: 10px;
+        width: 17vw;
+        border-radius: 100px 100px;
+        background: #1ce5b0;
+        color: white;
+    }
+}

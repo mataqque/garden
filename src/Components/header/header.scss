@@ -1,0 +1,60 @@
+.header{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+.background{
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    background: url("../../Assets/images/font-Landing.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative; 
+    filter: brightness(0.5); 
+}
+.content-header{
+    position: absolute;
+    z-index: 99;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+}
+.navbar-home{
+    position: relative;
+    height: 15vh;
+    max-height: 20vh;
+    width: 100%;
+    border-bottom: 1.5px solid rgba(255, 255, 255, 0.664);
+    color: white;
+    .content-navbar{
+        height: 100%;
+        width: 100%;
+    }
+    .items-navbar{
+        height: 100%;
+        width: 100%;
+    }
+    .brand{
+        height: 100%;
+        width: 110px;
+        padding: 10px;
+    }
+    .items-navbar>li{
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+.header-content{
+    height: 100%;
+}
+.header-text{
+    height: 100%;
+    width: 40%;
+}
+.header-imagen{
+    height: 100%;
+    width: 60%;
+}

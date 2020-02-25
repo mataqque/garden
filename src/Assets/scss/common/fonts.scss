@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "AmsdamRegular";
+    font-display: swap;
+    src: url("../../fonts/AmsdamRegular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "GtWalsheimBold";
+    src: url("../../fonts/GTWalsheimBold.woff2");
+}
+
+@font-face {
+    font-family: "GtWalsheimLight";
+    src: url("../../fonts/GTWalsheimLight.woff2");
+}
+
+@font-face {
+    font-family: "GtWalsheimProLight";
+    font-display: swap;
+    src: url("../../fonts/GTWalsheimProLight.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "GtWalsheimRegular";
+    font-display: swap;
+    src: url("../../fonts/gt-walsheim-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../../fonts/MyriadPro-Regular.woff2");
+}
+
+.AmsdamRegular{ font-family: "AmsdamRegular"; }
+.GtWalsheimBold{ font-family: "GtWalsheimBold"; }
+.GtWalsheimLight{ font-family: "GtWalsheimLight"; }
+.GtWalsheimProLight{ font-family: "GtWalsheimProLight"; }
+.GtWalsheimRegular{ font-family: "GtWalsheimRegular"; }
+.MyriadProRegular{ font-family: "MyriadProRegular"; }
+

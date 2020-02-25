@@ -13,10 +13,13 @@
     flex-direction: column ;
     height: 100vh;
     width: 100%;
-    background: url("/img/plant-artibutos-left.png"),url("/img/plant-artibutos-right.png"),#000000,;
+    background: url("../../Assets/images/plant-artibutos-left.png"),
+                url("../../Assets/images/plant-artibutos-right.png"),
+                url("../../Assets/images/fondo-booton-light.png"),
+                #000000;
     background-repeat: no-repeat;
-    background-position: left 8%,right,8%;
-    background-size: 15% 70%,15% 70%;
+    background-position: left 0%,right 57%,10% 100%;
+    background-size: 15% 70%,15% 70%,100% 20%;
     color: white;
     
 }
@@ -28,7 +31,7 @@
     align-items: flex-end;
     color: var(--color-line);
     .title{
-        font-size: 3vw;
+        font-size: 2.3vw;
     }
 }
 .content-icon{
@@ -65,7 +68,15 @@
         background: var(--color-line);
     }
     p{
-    font-family: GT-Walsheim-Bold;
-    font-size: 2vw;
+    font-family:GtWalsheimBold;
+    font-size: 1.5vw;
+    }
+}
+.slider{
+    .buttons{
+        height: 100%;
+    }
+    .buttons>img{
+        width: 4vw;
     }
 }

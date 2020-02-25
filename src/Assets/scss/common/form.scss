@@ -1,0 +1,29 @@
+.form-group{
+    .form-control{
+        border-radius: 5rem;
+        border:2px solid var(--primary);
+        background-color: transparent;
+        color: #fff;
+        padding-left: 1.4rem;
+        height: 3rem;
+        width: 15rem;
+        @media(max-width:769px){
+            padding-left: 5vw;
+            height: 12vw;
+            width: 100%;
+        }
+        &::-webkit-input-placeholder { color: #fff; }     
+        &:-ms-input-placeholder { color: #fff; }
+        &::placeholder { color: #fff; }
+        &:focus {
+            color: #fff;
+            background-color: transparent;
+            border-color: var(--primary);
+            outline: 0;
+            box-shadow: 0 0 0 0.2rem rgba(87,188,173,.25);
+            &::-webkit-input-placeholder { color: transparent; }     
+            &:-ms-input-placeholder { color: transparent; }
+            &::placeholder { color: transparent; }
+        }
+    }
+}

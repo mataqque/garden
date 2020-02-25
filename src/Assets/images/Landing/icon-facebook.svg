@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "opacity:0.65;">
+	<!ENTITY st1 "opacity:0.5;fill:none;stroke:#57BCAD;stroke-width:4;stroke-miterlimit:10;">
+	<!ENTITY st2 "fill:#57BCAD;">
+	<!ENTITY st3 "fill:#FFFFFF;">
+	<!ENTITY st4 "fill:none;stroke:#57BCAD;stroke-width:2;stroke-miterlimit:10;">
+	<!ENTITY st5 "fill:none;stroke:#57BCAD;stroke-width:3;stroke-miterlimit:10;">
+	<!ENTITY st6 "opacity:0.65;clip-path:url(#SVGID_2_);">
+	<!ENTITY st7 "clip-path:url(#SVGID_2_);fill:none;">
+]>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 42.9 42.9" style="enable-background:new 0 0 42.9 42.9;" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<path style="&st2;" d="M26.9,10.7l-2.8,0c-3.2,0-5.2,2.1-5.2,5.3v2.5h-2.8c-0.2,0-0.4,0.2-0.4,0.4v3.6c0,0.2,0.2,0.4,0.4,0.4h2.8
+				v9c0,0.2,0.2,0.4,0.4,0.4H23c0.2,0,0.4-0.2,0.4-0.4v-9h3.3c0.2,0,0.4-0.2,0.4-0.4l0-3.6c0-0.1,0-0.2-0.1-0.3
+				c-0.1-0.1-0.2-0.1-0.3-0.1h-3.3v-2.1c0-1,0.2-1.5,1.5-1.5l1.9,0c0.2,0,0.4-0.2,0.4-0.4v-3.3C27.3,10.8,27.1,10.7,26.9,10.7z"/>
+		</g>
+	</g>
+	<g>
+		<circle style="&st4;" cx="21.5" cy="21.5" r="19.7"/>
+	</g>
+</g>
+</svg>
